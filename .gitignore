@@ -1,0 +1,14 @@
+# Системні файли macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Системні файли Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Логи та тимчасові файли
+*.log
+.vscode/
+.idea/
